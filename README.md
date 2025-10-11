@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Dutchwilco]  
+# 👋 Hey there! I'm Dutchwilco  
 
 💻 **Java & Python Developer** | 🕹️ **Minecraft Plugins** | 🤖 **Discord Bots**
 
