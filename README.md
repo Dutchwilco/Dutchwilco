@@ -5,8 +5,8 @@
 ---
 
 ### 🧠 About Me
-- 💪 5 years of **Java** experience — building Minecraft plugins, custom game mechanics, and Discord integrations.  
-- 🐍 2 years of **Python** experience — creating powerful Discord bots and automations.  
+- 💪 7 years of **Java** experience — building Minecraft plugins, custom game mechanics, and Discord integrations.  
+- 🐍 3 years of **Python** experience — creating powerful Discord bots and automations.  
 - 🔧 Always learning, experimenting, and improving my code quality.  
 - 🌍 Passionate about building tools that make communities more fun and interactive.
 
